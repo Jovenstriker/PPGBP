@@ -11,9 +11,9 @@ Idea is that caffeine drastically elevates heart rate and is known to change the
 A neural network should be able to pick up on the differences
 
 ## Testing condition:
-4oz shot of espresso.
-Measured 2 control (BeforeReading, FirstReading)
-Measured 2 after (5 min after, 45 min after)
+Caffeine used: 4oz shot of espresso from MeanTime Coffee<br/>
+Measured 2 control (BeforeReading, FirstReading)<br/>
+Measured 2 after (5 min after, 45 min after)<br/>
 
 # PPGGlucoseDetection:
 PPGGlucoseDetection is a follow up project after successfully building PPGCaffeineDetection
