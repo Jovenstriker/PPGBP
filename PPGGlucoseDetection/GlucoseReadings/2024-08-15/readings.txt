@@ -1,0 +1,23 @@
+SBP: 126
+DBP: 83
+MAP: 97.3
+HR: 69
+Writing first interval: 15-38
+
+Predicted First
+SBP: 129.35858
+DBP: 82.05274
+MAP: 101.98757
+
+
+SBP: 128
+DBP: 87
+MAP: 97.3
+HR: 64
+
+Writing second interval: 15-40
+
+Predicted Second
+SBP: 131.48021
+DBP: 84.05557
+MAP: 96.324585

@@ -1,9 +1,0 @@
-SBP: 
-DBP: 
-MAP: 
-HR: 
-Writing first interval: 25-45
-
-Writing second interval 25-43
-
-Biking interval: 20-end
